@@ -1,3 +1,10 @@
+# Crop and Fertilizer Recommendation System using Machine Learning
+# Problem Statement
+Design a machine learning-based recommendation system to suggest the most suitable crops and fertilizers for a given piece of agricultural land. The system should analyse soil properties, weather conditions, and other relevant parameters to optimize agricultural productivity and sustainability.
+
+# Aim
+The aim of this project is to develop a crop and fertilizer recommendation system using machine learning techniques. The system will help farmers make informed decisions by analysing environmental and soil conditions to ensure optimal crop growth and resource utilization.
+
 # Crop_Recommendation
 Welcome to an intelligent solution designed to empower farmers and agricultural professionals! 🚜🌱 This machine learning-based system analyzes soil and environmental conditions to recommend the most suitable crop to grow and the optimal fertilizer to use, promoting sustainable agriculture and maximizing yield.
 
